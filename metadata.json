@@ -1,0 +1,6 @@
+{
+  "name": "Alarm",
+  "description": "A fully offline, unmissable alarm clock with reliable exact alarms, customizable dismiss challenges, and full-screen alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
